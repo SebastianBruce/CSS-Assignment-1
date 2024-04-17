@@ -1,0 +1,64 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+    line-height: 1.6;
+    background-color: #f2cbdf;
+    color: #333;
+}
+
+header {
+    background: url("../images/runaway\ cover\ art.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px, 1200px;
+    background-position: center;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #e16f98;
+    color: #fff;
+}
+
+header h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5em;
+    opacity: 85%;
+}
+
+header p {
+    font-size: 1.1em;
+    opacity: 85%;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    color: #333;
+    border-bottom: 2px solid #b969a1;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+#about p {
+    width: 40%;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #e16f98;
+    color: #fff;
+}
+
+footer p {
+    font-size: 0.8em;
+}
